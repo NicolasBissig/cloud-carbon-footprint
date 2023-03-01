@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/common
 
+## 1.10.0
+
+### Minor Changes
+
+- 08dbbcd4: Add option to chunk time range in azure requests to avoid infinite rate limit retries
+
 ## 1.9.0
 
 ### Minor Changes
