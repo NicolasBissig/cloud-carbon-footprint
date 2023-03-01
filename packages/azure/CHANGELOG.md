@@ -1,5 +1,17 @@
 # @cloud-carbon-footprint/azure
 
+## 1.2.0
+
+### Minor Changes
+
+- 08dbbcd4: Add option to chunk time range in azure requests to avoid infinite rate limit retries
+
+### Patch Changes
+
+- 11559bff: Add missing usage types and region aliases with logging messages for easy expansion
+- Updated dependencies [08dbbcd4]
+  - @cloud-carbon-footprint/common@1.10.0
+
 ## 1.1.0
 
 ### Minor Changes
