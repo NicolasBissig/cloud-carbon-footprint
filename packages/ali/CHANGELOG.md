@@ -1,5 +1,11 @@
 # @cloud-carbon-footprint/ali
 
+## 0.1.3
+
+### Patch Changes
+
+- 7d527d28: updates ramda dep
+
 ## 0.1.2
 
 ### Patch Changes
